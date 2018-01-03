@@ -1,0 +1,16 @@
+Klient nr: 1 (dodano: 16.11.2017 11:26)
+michal
+kurek
+123456789
+Klient nr: 2 (dodano: 16.11.2017 11:26)
+mariusz
+daniec
+123456789
+Klient nr: 3 (dodano: 16.11.2017 11:35)
+mariusz
+daniec
+123546778
+Klient nr: 4 (dodano: 3.1.2018 16:27)
+michal
+kurek
+123456789

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1510828615 source:e:\c++\baza danych\baza.cpp
+	<iostream>
+	"baza.h"
+	<fstream>
+	<stdlib.h>
+	<windows.h>
+	<string>
+
+1509027898 e:\c++\baza danych\baza.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1510826960 source:e:\c++\baza danych\main.cpp
+	<iostream>
+	"baza.h"
+	<fstream>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
